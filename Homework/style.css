@@ -1,0 +1,25 @@
+ body{
+     Background-color: #2F3035;
+     background-image: url(images/bg2.jpg);
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+
+ }
+
+ .container{
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 20rem;
+     padding: 2rem;
+     width: 30rem;
+     text-align: center;
+     color: white;
+     background-color: black;
+     opacity: 0.9;    
+     font-size: 18px; 
+ }
+
+ p.receipt{
+     font-size: 50px;
+ }
